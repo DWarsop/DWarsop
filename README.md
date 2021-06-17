@@ -6,7 +6,7 @@ A UK based developer whose often jumping around to have a play with new technolo
   - Professional: <b>C/AL, AL, C#</b>
   - Personal: <b>React Native, ReactJs</b>
   
-- 👯 I'm currently learning about:
+- 📚 I'm currently learning about:
   - Making my own React Native application for mobile/web
   - Making my own game using the Unity Engine and C#  
   
