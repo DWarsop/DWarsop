@@ -1,16 +1,17 @@
 ### Hey, I'm David 👋
 
-A UK based developer whose often jumping around to have a play with new technologies 😄
+A UK based developer whose often jumping around to have a play with new technologies. Currently splitting my time between here and DevOps 😄
 
 - 🖊️ Languages I work with:
   - Professional: <b>C/AL, AL, C#</b>
-  - Personal: <b>React Native, ReactJs</b>
+  - Personal: <b>React Native, ReactJs, TypeScript, Python</b>
   
 - 📚 I'm currently learning about:
-  - Making my own React Native application for mobile/web
+  - Making my own React Native application for mobile/web using using Firebase and TypeScript
   - Making my own game using the Unity Engine and C#  
   
 - 🔮 In the future I'd like:
+  - To have developed a side project that I can actively maintain and is used by the public
   - To be working somewhere in the games industry helping to develop a game; I have a dream of getting my credits in one 😊
   - Have published my own mobile app to one of the app stores
   
