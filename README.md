@@ -3,8 +3,8 @@
 A UK based developer whose often jumping around to have a play with new technologies. Currently splitting my time between here and DevOps 😄
 
 - 🖊️ Languages I work with:
-  - Professional: <b>AL, C#</b>
-  - Personal: <b>ReactJs, JavaScript, TypeScript</b>
+  - Professional: <b>AL, C# .NET</b>
+  - Personal: <b>React, JavaScript, TypeScript, Vue.Js</b>
   
 - 📚 I'm currently learning about:
   - Making my own React application for web using using Tailwind, Firebase and TypeScript
