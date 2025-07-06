@@ -1,22 +1,28 @@
-### Hey, I'm David 👋
+## Hey, I'm David 👋
 
-A UK based developer whose often jumping around to have a play with new technologies. Currently splitting my time between here and DevOps 😄
+A UK based developer with over 10 years experience in software development and architecture.
 
-- 🖊️ Languages I work with:
-  - Professional: <b>AL, C# .NET</b>
-  - Personal: <b>React, JavaScript, TypeScript, Vue.Js</b>
+Working professionally as the head of an engineering team, covering varying aspects of todays tech.
+
+#### Languages & Frameworks 🗣️
+![](https://img.shields.io/badge/C%23-8a2be2?style=for-the-badge)
+![](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge)
+![](https://img.shields.io/badge/Vue_3-5fb557?style=for-the-badge)
+![](https://img.shields.io/badge/Tailwind-20cfe1?style=for-the-badge)
+![](https://img.shields.io/badge/.NET-8a2be2?style=for-the-badge)
+
+#### Services & Tools 🔧
+![](https://img.shields.io/badge/Azure-blue?style=for-the-badge)
+![](https://img.shields.io/badge/Clerk-black?style=for-the-badge)
+
+#### Dabbled With 🧪
+![](https://img.shields.io/badge/React-blue?style=for-the-badge)
+![](https://img.shields.io/badge/Firebase-orange?style=for-the-badge)
+![](https://img.shields.io/badge/Kotlin-8A2BE2?style=for-the-badge)
+![](https://img.shields.io/badge/Kafka-black?style=for-the-badge)
+![](https://img.shields.io/badge/AWS-orange?style=for-the-badge)
   
-- 📚 I'm currently learning about:
-  - Making my own React application for web using using Tailwind, Firebase and TypeScript
-  - Making my own game using the Unity Engine and C#  
-  
-- 🔮 In the future I'd like:
-  - To have developed a side project that I can actively maintain and is used by the public
-  - To be working somewhere in the games industry helping to develop a game; I have a dream of getting my credits in one 😊
-  - Have published my own site to the world
-  
-- 📫 You can reach me via the below (if you want to chat about anything here):
-  - Dropping me an email at <b>david@dwarsop.co.uk</b>
-  - Dropping me a message on <b>[LinkedIn](https://www.linkedin.com/in/davidwarsop)</b>
-  - Or via my websites contact form <b>[here](https://david@dwarsop.co.uk/contact)</b>
-  
+#### Contact📫
+- Dropping me an email at <b>david@dwarsop.co.uk</b>
+- Dropping me a message on <b>[LinkedIn](https://www.linkedin.com/in/davidwarsop)</b>
+- Or via my websites contact form <b>[here](https://david@dwarsop.co.uk/contact)</b> 
